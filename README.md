@@ -16,11 +16,11 @@
 
 ## Authors
 
-👤 **Daniel Ufeli**
-- Github: [Github](https://github.com/danielufeli)
+👤 **Daniel Ufeli** - GitHub: [@danielufeli](https://github.com/danielufeli) - Twitter: [@danielufeli](https://twitter.com/danielufeli) - LinkedIn: [Daniel](https://www.linkedin.com/in/danielcode/) 
 
-👤 **Nicolas Gonzalez**
-- Github: [Github](https://github.com/Nicolaswg)
+**Eduardo Sancho Solano** - GitHub: [@eduardosancho](https://github.com/eduardosancho) - Twitter: [@sanchitobless](https://twitter.com/sanchitobless) - LinkedIn: [Eduardo](https://www.linkedin.com/in/eduardo-sancho-043641181/) 
+
+👤**Andres Felipe Arroyave Naranjo** - GitHub: [@JohnFTitor](https://github.com/JohnFTitor) - Twitter: [@johnftitor](https://twitter.com/johnftitor) - LinkedIn: [Andres](https://www.linkedin.com/in/andresfelipe117/?locale=en_US) 
 
 ## 🤝 Contributing
 
