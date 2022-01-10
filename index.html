@@ -15,11 +15,11 @@
         </div>
         <div class="nav-links">
           <ul class="links-container">
-            <li><a class="link" onclick="Book.listSection()">List</a></li>
+            <li><a class="link" id="list-link">List</a></li>
             <li><div class="line"></div></li>
-            <li><a class="link" onclick="Book.bookForm()">Add new</a></li>
+            <li><a class="link" id="add-link">Add new</a></li>
             <li><div class="line"></div></li>
-            <li><a class="link" onclick="Book.contactSection()">Contact</a></li>
+            <li><a class="link" id="contact-link">Contact</a></li>
           </ul>
         </div>
       </nav>
@@ -52,8 +52,8 @@
             maxlength="15"
             required
           />
+          <button id="btn-add" type="submit">Add</button>
         </form>
-        <button id="btn-add" type="submit">Add</button>
       </div>
     </section>
     <section id="contact-section">
