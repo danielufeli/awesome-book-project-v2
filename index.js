@@ -1,5 +1,5 @@
 import Book from './modules/Book.js';
-import { DateTime } from './node_modules/luxon/src/luxon.js';
+import startTime from './modules/Date.js';
 
 const submit = document.querySelector('form');
 
@@ -23,13 +23,5 @@ add.addEventListener('click', () => {
 contact.addEventListener('click', () => {
   Book.contactSection();
 });
-
-function startTime() {
-  const now = DateTime.now();
-  document.getElementById('date').innerHTML = now.toLocaleString(
-    DateTime.DATETIME_MED,
-  );
-  setTimeout(startTime, 1000);
-}
 
 startTime();
